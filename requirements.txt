@@ -1,0 +1,5 @@
+langchain-community
+langchain
+docarray
+pydantic
+pypdf
